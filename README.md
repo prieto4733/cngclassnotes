@@ -1,0 +1,2 @@
+# cngclassnotes
+Linux School Notes
